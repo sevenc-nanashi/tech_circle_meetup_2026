@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "build": "slidev build",
-    "build:pages": "slidev build --base /tech_circle_meetup_2026/",
+    "build:pages": "slidev build --base /tech_circle_meetup_2026",
     "dev": "slidev --open",
     "export": "slidev export"
   },
