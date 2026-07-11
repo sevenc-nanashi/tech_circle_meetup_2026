@@ -1,11 +1,3 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# 【令和最新版】【2026年度7月版】AviUtl2のプラグインを作ろう！
 
-To start the slide show:
-
-- `pnpm install`
-- `pnpm run dev`
-- visit <http://localhost:3030>
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev at the [documentation](https://sli.dev/).
+KANTO Tech Circle Meetup 2026の発表資料です。

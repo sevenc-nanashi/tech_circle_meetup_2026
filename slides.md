@@ -377,6 +377,7 @@ transition: fade
 <div un-h="4" />
 
 - 令和最新版のAviUtl2プラグイン開発環境で快適な開発をしよう！
+- スライド： <https://sevenc7c.com/tech_circle_meetup_2026>
 
 <v-click>
 
