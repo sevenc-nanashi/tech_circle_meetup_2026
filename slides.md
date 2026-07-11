@@ -266,14 +266,14 @@ transition: fade
 
 <v-clicks>
 
-- パッケージが分散している
-- 依存関係の管理が面倒
+- パッケージが分散していて面倒
 - コンパイラ依存
 - LSPが使いにくい（特にclangd on Windows）
 - 型推論が比較的弱い
 - テンプレートパラメーター多すぎ（priority_queueとか）
 - ファイル分割が面倒
 - コピーが暗黙的
+- short ← 短いね 何が？ / long ← 長いね 何が？ / double ← もはや何？
 - 古い仕様に引きずられている
 - <span un-font="bold [Microsoft_YaHei]">令和最新版</span>ではない
 
