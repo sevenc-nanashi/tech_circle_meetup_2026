@@ -102,8 +102,8 @@ transition: fade
 
 # AviUtl1のプラグインの作り方（参考）
 
-- AviUtl SDK（zip）をダウンロード
-  - 必要に応じてShift-JISからUTF-8に変換
+- AviUtl SDK（C headerの入ったzip）をダウンロード
+  - Shift-JISなので必要に応じてUTF-8に変換
 - C++でコードを書く
 - Visual StudioやCMakeでDLLをビルド
 - AviUtl1のフォルダにDLLをコピー
@@ -113,8 +113,8 @@ transition: fade
 
 # AviUtl2のプラグインの作り方
 
-- AviUtl2 SDK（zip）をダウンロード
-  - 必要に応じてShift-JISからUTF-8に変換
+- AviUtl2 SDK（C headerの入ったzip）をダウンロード
+  - Shift-JISなので必要に応じてUTF-8に変換
 - C++でコードを書く
 - Visual StudioやCMakeでDLLをビルド
 - AviUtl2のpluginフォルダにDLLをコピー
@@ -386,7 +386,6 @@ transition: fade
 ### おまけ
 
 - Rust製プラグイン46個のうち、私が開発したのは34個（73.9%）です
-- p5.js in AviUtl2をするプロジェクトも作っていて、それを使ってMVを作ったりしています
-  - https://sevenc7c.com/works#6oClockKoto
+- p5.js in AviUtl2をするプロジェクトも作っていて、それを使ってMVを作ったりしています：https://sevenc7c.com/works#6oClockKoto
 
 </v-click>
