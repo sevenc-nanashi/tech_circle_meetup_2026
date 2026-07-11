@@ -9,10 +9,13 @@
     "export": "slidev export"
   },
   "dependencies": {
+    "@iconify-json/twemoji": "^1.2.5",
     "@slidev/cli": "^52.14.2",
     "@slidev/theme-default": "latest",
     "@slidev/theme-seriph": "latest",
-    "@iconify-json/twemoji": "^1.2.5",
     "vue": "^3.5.33"
+  },
+  "devDependencies": {
+    "@slidev/types": "^52.17.0"
   }
 }
